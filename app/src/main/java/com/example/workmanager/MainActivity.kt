@@ -40,7 +40,7 @@ class MainActivity : ComponentActivity() {
                             3,
                             22,
                             19,
-                            7,
+                            58,
                             0
                         )
                         val customTime = customCalendar.timeInMillis
